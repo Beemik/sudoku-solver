@@ -1,0 +1,40 @@
+c:\users\maciek\documents\visual studio 2010\Projects\sudoku\main\bin\Debug\main.exe
+c:\users\maciek\documents\visual studio 2010\Projects\sudoku\main\bin\Debug\main.pdb
+c:\users\maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\main.exe
+c:\users\maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\main.pdb
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\main.exe
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\main.pdb
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\bin\Debug\main.exe
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\bin\Debug\main.pdb
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\main.Window.resources
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Users\Maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Users\Maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\main.Window.resources
+C:\Users\Maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Maciek\Dokumenty\Visual Studio 2010\Projects\sudoku\main\obj\x86\Debug\main.Levels.resources
+C:\Users\Maciek\documents\visual studio 2010\Projects\sudoku\main\obj\x86\Debug\main.Levels.resources
+E:\Dropbox\sudoku\main\obj\x86\Debug\main.exe
+E:\Dropbox\sudoku\main\obj\x86\Debug\main.pdb
+E:\Dropbox\sudoku\main\bin\Debug\main.exe
+E:\Dropbox\sudoku\main\bin\Debug\main.pdb
+E:\Dropbox\sudoku\main\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\sudoku\main\obj\x86\Debug\main.Levels.resources
+E:\Dropbox\sudoku\main\obj\x86\Debug\main.Properties.Resources.resources
+E:\Dropbox\sudoku\main\obj\x86\Debug\main.Window.resources
+E:\Dropbox\sudoku\main\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Dropbox\sudoku\main\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\sudoku\main\obj\x86\Debug\main.exe
+C:\Dropbox\sudoku\main\obj\x86\Debug\main.pdb
+C:\Dropbox\sudoku\main\bin\Debug\main.exe
+C:\Dropbox\sudoku\main\bin\Debug\main.pdb
+C:\Dropbox\sudoku\main\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\sudoku\main\obj\x86\Debug\main.Levels.resources
+C:\Dropbox\sudoku\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Dropbox\sudoku\main\obj\x86\Debug\main.Window.resources
+C:\Dropbox\sudoku\main\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\sudoku\main\obj\x86\Debug\GenerateResource.write.1.tlog
